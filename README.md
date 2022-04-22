@@ -1,2 +1,1 @@
-# se_midterm_django
-Introduction to Django
+https://github.com/leminhhuu77/se_midterm_django
